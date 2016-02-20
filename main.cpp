@@ -8,6 +8,6 @@ int main(int argc, char *argv[])
     qDebug() << "Hello World!";
     qDebug() << "I is using github first.";
     qDebug() << "end the program with any key.";
-    getchar();
+
     return a.exec();
 }
